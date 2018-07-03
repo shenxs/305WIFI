@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">305WIFI</string>
+    <string name="account">account</string>
+    <string name="sxpass">sxpass</string>
+    <string name="router_address">router_address</string>
+    <string name="router_pass">router_pass</string>
+    <string name="preference_file_key">305wifiSetting</string>
+</resources>
